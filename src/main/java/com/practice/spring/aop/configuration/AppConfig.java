@@ -8,5 +8,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 @EnableAspectJAutoProxy
 @ComponentScan(basePackages="com.practice.spring")
 public class AppConfig {
+	
+	// This is class describe about the configuration class ie without writing the xml file
 
 }
